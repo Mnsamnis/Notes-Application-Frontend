@@ -1,0 +1,3 @@
+[submodule "NotesApplication/notes_app"]
+	path = NotesApplication/notes_app
+	url = https://github.com/Mnsamnis/Notes-Application-Frontend
