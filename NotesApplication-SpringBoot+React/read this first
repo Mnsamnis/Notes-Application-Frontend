@@ -1,8 +1,0 @@
-So we can see two directories here.
-
-1. NoteApplication
-This is the backend project which is created using SpringBoot and MYSQL connection configurations is also done here. It contains Controllers, Services, Beans
-pom.xml and all necessary configurations.
-
-2. NotesApplication
-This contains the frontend of the same project which is created using React.js just for a beautifull UI.
